@@ -1,0 +1,21 @@
+{
+  "name": "com.pipettegames.sophisticatedvectors",
+  "version": "0.1.0",
+  "displayName": "Sophisticated Vectors",
+  "description": "A general-purpose vector math library for Unity by Pipette Games.",
+  "unity": "2022.2",
+  "keywords": [
+    "vector",
+    "math"
+  ],
+  "author": {
+    "name": "Pipette Games",
+    "email": "pipettegames@gmail.com",
+    "url": "https://github.com/PipetteGames/SophisticatedVectors"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PipetteGames/SophisticatedVectors.git"
+  }
+}
